@@ -1221,26 +1221,26 @@ p {
 
 /* Projects Style */
 
-#billboard {
+#projects {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 50px;
   border-bottom: 1px solid #eee;
 }
 
-#billboard .masonry {
+#projects .masonry {
   position: relative;
   width: 100%;
 }
 
-#billboard .masonry .item img {
+#projects .masonry .item img {
   transition: all 1s;
   width: 100%;
   overflow: hidden;
   margin-bottom: 30px;
 }
 
-#billboard .masonry .item img:hover {
+#projects .masonry .item img:hover {
   opacity: 0.5;
 }
 
@@ -1656,7 +1656,7 @@ p {
     right: 0;
   }
 
-  #billboard {
+  #projects {
     padding-left: 15px;
     padding-right: 15px;
   }
